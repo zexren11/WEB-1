@@ -1,0 +1,50 @@
+:root{
+    background-color: rgb(10, 1, 32);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 6rem;
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    color: white;
+}
+
+.head{
+    background-color: rgb(14, 3, 85);
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50rem;
+}
+
+.body{
+    background-color: rgb(14, 3, 85);
+    width: 12rem;
+    height: 7rem;
+    border-radius: 30rem 30rem 0rem 0rem;
+}
+
+.xx{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+    margin-top: 8em;
+}
+
+.zz{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border: 1px solid white;
+    width: 30rem;
+}
+
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
